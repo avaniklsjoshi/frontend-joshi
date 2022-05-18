@@ -47,3 +47,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 // to do
 https://github.com/microsoft/vscode-js-debug
+source-map-explorer - to analyse bundle // error with new react
+storybook // error with new react
+
+//done
+react, typescript, redux, prettier, husky, lint-staged, tests
