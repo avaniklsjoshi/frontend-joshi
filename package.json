@@ -16,11 +16,6 @@
     "typescript": "^4.6.4",
     "web-vitals": "^2.1.4"
   },
-  "husky": {
-    "hooks": {
-       "pre-commit": "npm test"
-    }
-  },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
       "prettier --write"
