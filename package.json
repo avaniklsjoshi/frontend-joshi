@@ -16,6 +16,11 @@
     "typescript": "^4.6.4",
     "web-vitals": "^2.1.4"
   },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+      "prettier --write"
+    ]
+ },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -45,11 +50,7 @@
       "pre-commit": "lint-staged"
     }
   },
-  "lint-staged": {
-     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
-       "prettier --write"
-     ]
-  },
+
   "devDependencies": {
     "husky": "^8.0.1",
     "lint-staged": "^12.4.1",
