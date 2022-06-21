@@ -1,20 +1,13 @@
 import "./App.scss";
+import LandingPage from "../components/views/LandingPage";
+import Header from "../components/Header/header";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React we
-        </a>
+        <Header />
+        <LandingPage />
       </header>
     </div>
   );

@@ -6,8 +6,6 @@
 - tracking
 - SEO
 - web security
-- awesome project setup ideas
-
 - api fail UI, centralized loader
 - scroll loader at top
 - click scroll to section
@@ -16,15 +14,13 @@
 - Cookie
 - caching
 - lazy loading
-- https
-- express local
-- WebAssembly, Svelte
 - Webpack settings- chunking, compression, publish, Profiling, bundle analyser
 - Optimisation, lighthouse chrome
+
+- respective backend- AWS, Dyanamo DB, lambda, s3, express local
 - npm package
 - monorepo
-
-- respective backend- AWS, Dyanamo DB, lambda, s3
+- WebAssembly, Svelte
 
 //------------- DONE ------------------
 CRA with typescript template.
