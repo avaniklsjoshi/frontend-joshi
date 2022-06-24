@@ -30,8 +30,8 @@
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, lives in Germany. I am a hands-on learner, hence prefer learning new technologies through development.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and do Leetcode problems.
+- :seedling: Exploring new ideas and tech for beautiful projects.
+- :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Avani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshi-avani/)
 
 ---
@@ -49,6 +49,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats :
@@ -56,10 +57,12 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=avaniklsjoshi&theme=dark&background=000000)](https://git.io/streak-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaniklsjoshi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
+<h1 align="center">This repo will have following features-</h1>
 
 - Routing, 404 page
 - react-redux, saga
@@ -86,20 +89,22 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - monorepo
 - WebAssembly, Svelte
 
-//------------- DONE ------------------
-CRA with typescript template.
-husky lint-staged prettier
-storybook, npm run storybook, http://localhost:6006/
-scss
-Post-Processing CSS was part of CRA
-testing was part of CRA
-source-map-explorer(installed at system), npm run analyze
-language
+<h1 align="center">Already added features-</h1>
+-CRA with typescript template.
+-husky lint-staged prettier
+-storybook, npm run storybook, http://localhost:6006/
+-scss
+-Post-Processing CSS was part of CRA
+-testing was part of CRA
+-source-map-explorer(installed at system), npm run analyze
+-language
 
-//------------- Important refer back links ------------------
-Testing - https://create-react-app.dev/docs/running-tests
-Readme - https://www.sitepoint.com/github-profile-readme/, https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+<h4 align="center">Important refer back links-</h4>
+
+-Testing - https://create-react-app.dev/docs/running-tests
+-Readme - https://www.sitepoint.com/github-profile-readme/, https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ---
+
 Feel free to ask any questions, open a PR if you feel something can be done differently!
 <h1 align="center">🌟Star this repository🌟</h1>
