@@ -62,7 +62,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-<h2>This repo will have following features-</h2>
+<h2>Hold tight, features are going to be added soon..-</h2>
 
 - Routing, 404 page
 - react-redux, saga
@@ -89,22 +89,25 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - monorepo
 - WebAssembly, Svelte
 
-<h2>Already added features-</h2>
--CRA with typescript template.
--husky lint-staged prettier
--storybook, npm run storybook, http://localhost:6006/
--scss
--Post-Processing CSS was part of CRA
--testing was part of CRA
--source-map-explorer(installed at system), npm run analyze
--language
+<h2>Already implemented features-</h2>
+- CRA with typescript template.
+- husky lint-staged prettier
+- storybook, npm run storybook, http://localhost:6006/
+- scss
+- Post-Processing CSS was part of CRA
+- testing was part of CRA
+- source-map-explorer(installed at system), npm run analyze
+- language
+- Readme.md file
 
 <h4 align="center">Important refer back links-</h4>
 
--Testing - https://create-react-app.dev/docs/running-tests
--Readme - https://www.sitepoint.com/github-profile-readme/, https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+- Testing - https://create-react-app.dev/docs/running-tests
+- Readme - https://www.sitepoint.com/github-profile-readme/, https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ---
 
-Feel free to ask any questions, open a PR if you feel something can be done differently!
-<h1 align="center">🌟Star this repository🌟</h1>
+<div align="center">
+  Feel free to ask any questions, open a PR if you feel something can be done differently!
+  <h4 align="center">🌟Star this repository🌟</h4>
+</div>
