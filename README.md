@@ -54,8 +54,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
----
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=avaniklsjoshi&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaniklsjoshi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -102,7 +100,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - Readme.md file
 
 
-<h4>Important refer back links-</h4>
+<h3>Important refer back links-</h3>
 
 - Testing - https://create-react-app.dev/docs/running-tests
 - Readme - https://www.sitepoint.com/github-profile-readme/, https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
