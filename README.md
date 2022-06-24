@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=avaniklsjoshi&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 <h1 align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>
 </h1>
 <div align="center">
@@ -55,7 +55,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=avaniklsjoshi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
