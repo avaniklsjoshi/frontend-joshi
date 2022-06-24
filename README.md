@@ -62,6 +62,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <h2>:bomb:Hold tight, features are going to be added soon..  :crossed_fingers:</h2>
 :coffee:
+
 - Routing, 404 page
 - react-redux, saga
 - decor RM file
@@ -87,7 +88,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - monorepo
 - WebAssembly, Svelte
 
-<h2>:tada:Already implemented features  </h2>
+<h2>Already implemented features :tada: </h2>
 
 - CRA with typescript template.
 - husky lint-staged prettier
