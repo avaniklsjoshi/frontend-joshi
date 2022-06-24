@@ -62,7 +62,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-<h1 align="center">This repo will have following features-</h1>
+<h2>This repo will have following features-</h2>
 
 - Routing, 404 page
 - react-redux, saga
@@ -89,7 +89,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - monorepo
 - WebAssembly, Svelte
 
-<h1 align="center">Already added features-</h1>
+<h2>Already added features-</h2>
 -CRA with typescript template.
 -husky lint-staged prettier
 -storybook, npm run storybook, http://localhost:6006/
