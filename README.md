@@ -60,7 +60,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-<h2>Hold tight, features are going to be added soon..-</h2>
+<h2>:coffee:Hold tight:bomb:, features are going to be added soon :crossed_fingers: ..</h2>
 
 - Routing, 404 page
 - react-redux, saga
@@ -87,7 +87,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - monorepo
 - WebAssembly, Svelte
 
-<h2>Already implemented features-</h2>
+<h2>:woman_juggling:Already implemented features  :tada:</h2>
 
 - CRA with typescript template.
 - husky lint-staged prettier
@@ -100,7 +100,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - Readme.md file
 
 
-<h3>Important refer back links-</h3>
+<h3>:woman_juggling: Important refer back links-</h3>
 
 - Testing - https://create-react-app.dev/docs/running-tests
 - Readme - https://www.sitepoint.com/github-profile-readme/, https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
