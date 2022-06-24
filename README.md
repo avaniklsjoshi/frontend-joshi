@@ -90,6 +90,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - WebAssembly, Svelte
 
 <h2>Already implemented features-</h2>
+
 - CRA with typescript template.
 - husky lint-staged prettier
 - storybook, npm run storybook, http://localhost:6006/
@@ -100,7 +101,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - language
 - Readme.md file
 
-<h4 align="center">Important refer back links-</h4>
+
+<h4>Important refer back links-</h4>
 
 - Testing - https://create-react-app.dev/docs/running-tests
 - Readme - https://www.sitepoint.com/github-profile-readme/, https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
