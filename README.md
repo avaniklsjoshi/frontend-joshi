@@ -60,8 +60,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-<h2>:bomb:Hold tight, features are going to be added soon..  :crossed_fingers:</h2>
-:coffee:
+<h2>:bomb:  Hold tight, features are going to be added soon..  :crossed_fingers:</h2>
 
 - Routing, 404 page
 - react-redux, saga
