@@ -28,7 +28,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, lives in Germany.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, lives in Germany. I am a hands-on learner, hence prefer learning new technologies through development.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and do Leetcode problems.
@@ -72,6 +72,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - api fail UI, centralized loader
 - scroll loader at top
 - click scroll to section
+- tell me a joke section
 - service workers
 - PWA
 - Cookie
@@ -98,3 +99,7 @@ language
 //------------- Important refer back links ------------------
 Testing - https://create-react-app.dev/docs/running-tests
 Readme - https://www.sitepoint.com/github-profile-readme/, https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+---
+Feel free to ask any questions, open a PR if you feel something can be done differently!
+<h1 align="center">🌟Star this repository🌟</h1>
