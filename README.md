@@ -28,7 +28,9 @@
 ---
 
 ### :woman_technologist: About Me :
+
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, lives in Germany. I am a hands-on learner, hence prefer learning new technologies through development.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring new ideas and tech for beautiful projects.
 - :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
@@ -37,6 +39,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>&nbsp;
@@ -76,7 +79,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <h2>:bomb:  Hold tight, features are going to be added soon..  :crossed_fingers:</h2>
 
-- Routing, 404 page
 - react-redux, saga
 - decor RM file
 - fonts,THEME, public folder
@@ -111,13 +113,13 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - testing was part of CRA
 - source-map-explorer(installed at system), npm run analyze
 - language
-- Readme.md file
-
+- Readme.md file decor
+- Routing, 404 page
 
 <h3> Important refer back links-</h3>
 
 - Testing - https://create-react-app.dev/docs/running-tests
-- Readme - https://www.sitepoint.com/github-profile-readme/, https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+- Readme - https://www.sitepoint.com/github-profile-readme
 
 ---
 
