@@ -79,8 +79,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <h2>:bomb:  Hold tight, features are going to be added soon..  :crossed_fingers:</h2>
 
-- react-redux, saga
-- decor RM file
 - fonts,THEME, public folder
 - Pipeline, Docker, different environments stage prod qa
 - tracking
@@ -94,10 +92,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - PWA
 - Cookie
 - caching
-- lazy loading
+- lazy loading, code splitting
+
 - Webpack settings- chunking, compression, publish, Profiling, bundle analyser
 - Optimisation, lighthouse chrome
-
 - respective backend- AWS, Dyanamo DB, lambda, s3, express local
 - npm package
 - monorepo
@@ -115,6 +113,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - language
 - Readme.md file decor
 - Routing, 404 page
+- eslint
+- react-redux, saga, global variable, axious
 
 <h3> Important refer back links-</h3>
 

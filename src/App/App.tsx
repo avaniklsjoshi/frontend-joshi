@@ -1,10 +1,10 @@
 import "./App.scss";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import LandingPage from "../components/views/LandingPage";
-import Header from "../components/Header/header";
-import Footer from "../components/Footer/footer";
-import FeaturesPage from "../components/views/FeaturesPage";
-import NotFoundPage from "../components/views/NotfoundPage";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Footer from "../Components/Footer/footer";
+import Header from "../Components/Header/header";
+import FeaturesPage from "../Components/Views/FeaturesPage";
+import LandingPage from "../Components/Views/LandingPage";
+import NotFoundPage from "../Components/Views/NotfoundPage";
 
 function App() {
   return (
