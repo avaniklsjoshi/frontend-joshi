@@ -79,21 +79,20 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <h2>:bomb:  Hold tight, features are going to be added soon..  :crossed_fingers:</h2>
 
-- fonts,THEME, public folder
-- Pipeline, Docker, different environments stage prod qa
-- tracking
-- SEO
-- web security
+- cool websites features, cool project setup ideas
+- change page title, web title logo
 - api fail UI, centralized loader
-- scroll loader at top
-- click scroll to section
+- scroll loader at top, click scroll to section
 - tell me a joke section
 - service workers
 - PWA
 - Cookie
 - caching
 - lazy loading, code splitting
-
+- tracking
+- SEO
+- web security
+- Pipeline, Docker, different environments stage prod qa
 - Webpack settings- chunking, compression, publish, Profiling, bundle analyser
 - Optimisation, lighthouse chrome
 - respective backend- AWS, Dyanamo DB, lambda, s3, express local
@@ -106,7 +105,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - CRA with typescript template.
 - husky lint-staged prettier
 - storybook, npm run storybook, http://localhost:6006/
-- scss
+- scss, css reset
 - Post-Processing CSS was part of CRA
 - testing was part of CRA
 - source-map-explorer(installed at system), npm run analyze
@@ -114,7 +113,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - Readme.md file decor
 - Routing, 404 page
 - eslint
-- react-redux, saga, global variable, axious
+- react-redux, saga, axious
+- fonts,THEME
 
 <h3> Important refer back links-</h3>
 

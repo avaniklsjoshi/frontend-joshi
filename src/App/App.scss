@@ -1,7 +1,10 @@
 @import "../CommonStyles/colors.scss";
+@import "../CommonStyles/variables.scss";
+
 .App {
   text-align: center;
   background: $colorWhite;
+  font-family: $appFont;
 }
 
 .App-logo {

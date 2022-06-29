@@ -3,3 +3,4 @@ public
 src/stories
 coverage
 build
+*.scss
