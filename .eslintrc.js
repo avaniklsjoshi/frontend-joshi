@@ -100,22 +100,8 @@ module.exports = {
 			}
 		],
 		"no-unused-vars": "warn",
-		"object-curly-spacing": ["warn", "always"],
+		"object-curly-spacing": ["off"],
 		quotes: ["warn", "double"],
-
-		"react/jsx-curly-spacing": [
-			"warn",
-			{
-				allowMultiline: true,
-				children: {
-					when: "always"
-				},
-				spacing: {
-					objectLiterals: "always"
-				},
-				when: "always"
-			}
-		],
 		"react/jsx-filename-extension": [
 			"error",
 			{
@@ -134,7 +120,7 @@ module.exports = {
 			}
 		],
 		"sort-keys": [
-			"warn",
+			"off",
 			"asc",
 			{
 				caseSensitive: true,
