@@ -114,7 +114,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - Routing, 404 page
 - eslint
 - react-redux, saga, axious
-- fonts,THEME
+- fonts, imgs, svg
+- Theming
 
 <h3> Important refer back links-</h3>
 
