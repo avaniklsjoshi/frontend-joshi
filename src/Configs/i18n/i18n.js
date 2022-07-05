@@ -10,25 +10,25 @@ import translationHN from "./locales/hn/translation.json";
 //Creating object with the variables of imported translation files
 const resources = {
   de: {
-    translation: translationDE,
+    translation: translationDE
   },
   en: {
-    translation: translationEN,
+    translation: translationEN
   },
   hn: {
-    translation: translationHN,
-  },
+    translation: translationHN
+  }
 };
 
 //i18N Initialization
 
 i18n.use(initReactI18next).init({
   interpolation: {
-    escapeValue: false,
+    escapeValue: false
   },
   keySeparator: false,
   lng: "hn", //default language
-  resources,
+  resources
 });
 
 export default i18n;

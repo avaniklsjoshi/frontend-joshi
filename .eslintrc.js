@@ -34,7 +34,8 @@ module.exports = {
       rules: {
         "@typescript-eslint/no-array-constructor": "warn",
         "no-array-constructor": "off",
-        "no-unused-vars": "off"
+        "no-unused-vars": "off",
+        "@typescript-eslint/no-explicit-any": "off"
       }
     }
   ],

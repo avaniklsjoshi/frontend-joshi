@@ -3,7 +3,7 @@ import { all, call, put, takeLatest } from "redux-saga/effects";
 import { IPost } from "../../../Models/IPost";
 import {
   fetchPostsFailure,
-  fetchPostsSuccess,
+  fetchPostsSuccess
 } from "../../Actions/PostsActions/postsActions";
 import { postTypes } from "../../ActionTypes/postsTypes";
 import { FetchPostsSuccessResponse } from "../../Types/types";
@@ -16,13 +16,13 @@ function* fetchPostsSaga() {
     const response: FetchPostsSuccessResponse = yield call(getPosts);
     yield put(
       fetchPostsSuccess({
-        posts: response.data,
+        posts: response.data
       })
     );
   } catch (e: any) {
     yield put(
       fetchPostsFailure({
-        error: e.message,
+        error: e.message
       })
     );
   }

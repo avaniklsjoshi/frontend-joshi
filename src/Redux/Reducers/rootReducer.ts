@@ -2,7 +2,7 @@ import { combineReducers } from "redux";
 import postReducer from "./PostsReducer/postsReducer";
 
 const rootReducer = combineReducers({
-  posts: postReducer,
+  posts: postReducer
 });
 
 export type RootState = ReturnType<typeof rootReducer>;
