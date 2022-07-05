@@ -79,11 +79,13 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <h2>:bomb:  Hold tight, features are going to be added soon..  :crossed_fingers:</h2>
 
-- cool websites features, cool project setup ideas
 - change page title, web title logo
 - api fail UI, centralized loader
 - scroll loader at top, click scroll to section
-- tell me a joke section
+- tell me a joke section, Meme Generator\*
+- Real-Time Chat, Music Player\*
+- Personal Blog\*
+- Photo Gallery App with Search Option(might use some AI APIs)\*
 - service workers
 - PWA
 - Cookie
@@ -116,11 +118,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - react-redux, saga, axious
 - fonts, imgs, svg
 - Theming with local storage complete
-
-<h3> Important refer back links-</h3>
-
-- Testing - https://create-react-app.dev/docs/running-tests
-- Readme - https://www.sitepoint.com/github-profile-readme
 
 ---
 

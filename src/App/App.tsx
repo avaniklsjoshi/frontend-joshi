@@ -17,7 +17,7 @@ function App() {
   const [currentTheme, setNewTheme] = useReducer(ThemeReducer, []);
   const themeContextProviderValue: IPlaceThemeProvider = {
     currentTheme,
-    setNewTheme,
+    setNewTheme
   };
 
   useEffect(() => {

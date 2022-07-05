@@ -2,7 +2,7 @@ import { useCallback, useContext } from "react";
 import Box from "./box";
 import {
   LOCAL_STORAGE_THEME_KEY,
-  THEME_ARRAY,
+  THEME_ARRAY
 } from "../../Configs/Constants/const";
 import { IThemeConfig } from "../../Theme/themeConfig";
 import { PlaceThemeContext } from "../../Theme/themeContext";
