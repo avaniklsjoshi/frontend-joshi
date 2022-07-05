@@ -33,8 +33,8 @@ function App() {
         <ThemeProvider theme={currentTheme.updatedTheme}>
           <GlobalStyle />
           <div className="App">
-            <header className="App-header">
-              <Header />
+            <Header />
+            <section className="content-section">
               <BrowserRouter>
                 <Routes>
                   <Route path="/" element={<LandingPage />} />
@@ -42,8 +42,8 @@ function App() {
                   <Route path="*" element={<NotFoundPage />} />
                 </Routes>
               </BrowserRouter>
-              <Footer />
-            </header>
+            </section>
+            <Footer />
           </div>
         </ThemeProvider>
       )}

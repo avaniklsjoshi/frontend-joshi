@@ -1,17 +1,18 @@
-import React from "react";
 import { Github } from "../../Assets/SVG/Github";
 import { Gitlab } from "../../Assets/SVG/Gitlab";
 import { LinkedIn } from "../../Assets/SVG/LinkedIn";
 import { Twitter } from "../../Assets/SVG/Twitter";
+import "./footer.scss";
 
 export default function Footer() {
   return (
-    <div>
+    <div className="footer-container">
       <a
         href="https://twitter.com/avaniklsjoshi/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Twitter Avani"
+        className="social-links"
       >
         <Twitter />
       </a>
@@ -20,6 +21,7 @@ export default function Footer() {
         target="_blank"
         rel="noopener noreferrer"
         aria-label="LinkedIn Avani"
+        className="social-links"
       >
         <LinkedIn />
       </a>
@@ -28,6 +30,7 @@ export default function Footer() {
         target="_blank"
         rel="noopener noreferrer"
         aria-label="github Avani"
+        className="social-links"
       >
         <Github />
       </a>
@@ -36,10 +39,11 @@ export default function Footer() {
         target="_blank"
         rel="noopener noreferrer"
         aria-label="gitlab Avani"
+        className="social-links"
       >
         <Gitlab />
       </a>
-      Copyrights
+      <p className="copyright">© 2022 Avani, All Rights Reserved..</p>
     </div>
   );
 }
