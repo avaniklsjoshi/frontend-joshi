@@ -93,7 +93,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - SEO
 - web security
 - Pipeline, Docker, different environments stage prod qa
-- Webpack settings- chunking, compression, publish, Profiling, bundle analyser
+- Webpack/vite settings- chunking, compression, publish, Profiling, bundle analyser
 - Optimisation, lighthouse chrome
 - respective backend- AWS, Dyanamo DB, lambda, s3, express local
 - npm package
@@ -115,7 +115,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - eslint
 - react-redux, saga, axious
 - fonts, imgs, svg
-- Theming
+- Theming with local storage complete
 
 <h3> Important refer back links-</h3>
 

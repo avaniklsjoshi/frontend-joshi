@@ -3,7 +3,7 @@ import dark from "../../Theme/themes/dark";
 import girly from "../../Theme/themes/girly";
 import light from "../../Theme/themes/light";
 
-export const themeArray: IThemeConfig[] = [
+export const THEME_ARRAY: IThemeConfig[] = [
   {
     themeName: "green",
     themeColor: "#59ab64",
@@ -20,3 +20,6 @@ export const themeArray: IThemeConfig[] = [
     themeValue: dark,
   },
 ];
+
+export const DEFAULT_THEME = girly;
+export const LOCAL_STORAGE_THEME_KEY = "joshi-themes";

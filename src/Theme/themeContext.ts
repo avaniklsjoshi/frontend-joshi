@@ -1,5 +1,4 @@
 import { createContext } from "react";
-
 import { DefaultTheme } from "styled-components";
 
 export interface IPlaceThemeProvider {
