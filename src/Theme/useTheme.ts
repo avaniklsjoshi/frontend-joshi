@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import {
   DEFAULT_THEME,
-  LOCAL_STORAGE_THEME_KEY,
+  LOCAL_STORAGE_THEME_KEY
 } from "../Configs/Constants/const";
 import { getFromLS } from "../Utils/localStorage";
 

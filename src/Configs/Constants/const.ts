@@ -7,18 +7,18 @@ export const THEME_ARRAY: IThemeConfig[] = [
   {
     themeName: "green",
     themeColor: "#59ab64",
-    themeValue: girly,
+    themeValue: girly
   },
   {
     themeName: "light",
     themeColor: "#f5f5f5",
-    themeValue: light,
+    themeValue: light
   },
   {
     themeName: "dark",
     themeColor: "#4B4453",
-    themeValue: dark,
-  },
+    themeValue: dark
+  }
 ];
 
 export const DEFAULT_THEME = girly;
