@@ -1,3 +1,4 @@
+import loveIcon from "../../Assets/Images/love.png";
 import { Github } from "../../Assets/SVG/Github";
 import { Gitlab } from "../../Assets/SVG/Gitlab";
 import { LinkedIn } from "../../Assets/SVG/LinkedIn";
@@ -43,7 +44,11 @@ export default function Footer() {
       >
         <Gitlab />
       </a>
-      <p className="copyright">© 2022 Avani, All Rights Reserved..</p>
+      <p className="copyright">
+        © 2022, All Rights Reserved. Made with
+        <img src={loveIcon} alt="caring love" />
+        by Avani Joshi
+      </p>
     </div>
   );
 }
