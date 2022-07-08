@@ -79,7 +79,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <h2>:bomb:  Hold tight, features are going to be added soon..  :crossed_fingers:</h2>
 
-- change page title, web title logo
+- change page title, web title logo, share link
 - api fail UI, centralized loader
 - scroll loader at top, click scroll to section
 - tell me a joke section, Meme Generator\*

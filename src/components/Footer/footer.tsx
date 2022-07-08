@@ -45,9 +45,13 @@ export default function Footer() {
         <Gitlab />
       </a>
       <p className="copyright">
-        © 2022, All Rights Reserved. Made with
+        © 2022, All Rights Reserved<sup>*</sup>. Made with
         <img src={loveIcon} alt="caring love" />
         by Avani Joshi
+      </p>
+      <p className="star">
+        <sup>*</sup>Rights were given by a clever cat, called cat rights
+        reserved 😎😺
       </p>
     </div>
   );
