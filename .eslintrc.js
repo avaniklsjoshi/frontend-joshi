@@ -14,7 +14,8 @@ module.exports = {
     "plugin:jest/recommended",
     "plugin:testing-library/react",
     "plugin:@typescript-eslint/eslint-recommended",
-    "plugin:@typescript-eslint/recommended"
+    "plugin:@typescript-eslint/recommended",
+    "plugin:json/recommended"
   ],
   overrides: [
     {

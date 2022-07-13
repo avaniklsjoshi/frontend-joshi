@@ -1,3 +1,5 @@
+@import "../../CommonStyles/variables.scss";
+
 .footer-container {
   padding: 20px;
 }
@@ -7,7 +9,7 @@
 }
 
 .copyright {
-  font-size: 16px;
+  font-size: $appFontSizeLarge;
   margin-top: 10px;
   img {
     height: 18px;
@@ -16,7 +18,7 @@
 }
 
 .star {
-  font-size: 12px;
+  font-size: $appFontSizeSmall;
   text-align: right;
   margin-top: 20px;
 }

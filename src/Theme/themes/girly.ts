@@ -1,5 +1,5 @@
 export default {
-  themeType: "green",
+  themeType: "girly",
   colors: {
     background: "#59ab64",
     text: "#fff"

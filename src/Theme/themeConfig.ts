@@ -4,4 +4,5 @@ export interface IThemeConfig {
   themeName: string;
   themeColor: string;
   themeValue: DefaultTheme;
+  themeIcon: string;
 }

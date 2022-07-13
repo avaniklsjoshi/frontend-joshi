@@ -1,57 +1,24 @@
+import { useTranslation } from "react-i18next";
+import Social from "./social";
 import loveIcon from "../../Assets/Images/love.png";
-import { Github } from "../../Assets/SVG/Github";
-import { Gitlab } from "../../Assets/SVG/Gitlab";
-import { LinkedIn } from "../../Assets/SVG/LinkedIn";
-import { Twitter } from "../../Assets/SVG/Twitter";
 import "./footer.scss";
 
 export default function Footer() {
+  const { t } = useTranslation();
+
   return (
     <div className="footer-container">
-      <a
-        href="https://twitter.com/avaniklsjoshi/"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Twitter Avani"
-        className="social-links"
-      >
-        <Twitter />
-      </a>
-      <a
-        href="https://www.linkedin.com/in/avani-joshi-6365b887/"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="LinkedIn Avani"
-        className="social-links"
-      >
-        <LinkedIn />
-      </a>
-      <a
-        href="https://github.com/avaniklsjoshi"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="github Avani"
-        className="social-links"
-      >
-        <Github />
-      </a>
-      <a
-        href="https://gitlab.com/avaniklsjoshi"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="gitlab Avani"
-        className="social-links"
-      >
-        <Gitlab />
-      </a>
+      <Social />
       <p className="copyright">
-        © 2022, All Rights Reserved<sup>*</sup>. Made with
+        {t("copyrightText1")}
+        <sup>*</sup>
+        {t("copyrightText2")}
         <img src={loveIcon} alt="caring love" />
-        by Avani Joshi
+        {t("copyrightText3")}
       </p>
       <p className="star">
-        <sup>*</sup>Rights were given by a clever cat, called cat rights
-        reserved 😎😺
+        <sup>*</sup>
+        {t("copyrightStar")}
       </p>
     </div>
   );

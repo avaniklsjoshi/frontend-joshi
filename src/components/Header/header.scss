@@ -1,0 +1,58 @@
+@import "../../CommonStyles/placeholders.scss";
+@import "../../CommonStyles/variables.scss";
+
+.header-container {
+  @extend %center;
+  padding: 20px;
+}
+.header-title {
+  margin-right: auto;
+  font-size: $appTitleFontSize;
+}
+.header-accessibilities {
+  @extend %center;
+  div {
+    margin: 10px;
+    color: inherit;
+  }
+  svg {
+    color: inherit;
+  }
+}
+.language-selectbox {
+  margin: 0 !important;
+  fieldSet {
+    border: none;
+  }
+}
+#language-select {
+  margin: 0;
+}
+.theme-picker {
+  img {
+    height: 24px;
+    width: 24px;
+  }
+  button {
+    border: none;
+    border-radius: 24px !important;
+    &.Mui-selected,
+    &.Mui-selected:hover {
+      background: none;
+      .img-back {
+        box-shadow: 1px 1.5px 23px red;
+        height: 15px;
+        width: 15px;
+        border-radius: 18px;
+        position: absolute;
+      }
+    }
+    .img-back {
+      position: absolute;
+    }
+  }
+  button:hover {
+    box-shadow: 1px 1.5px 8px red;
+    border-radius: 24px;
+  }
+}
