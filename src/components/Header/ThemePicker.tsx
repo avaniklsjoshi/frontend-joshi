@@ -29,7 +29,7 @@ export default function ThemePicker() {
 
   useEffect(() => {
     if (theme) {
-      setAlignment((alignment) => (alignment = theme));
+      setAlignment(() => theme);
     }
   }, [theme]);
 

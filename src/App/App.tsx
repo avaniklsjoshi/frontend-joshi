@@ -7,6 +7,7 @@ import Header from "../Components/Header/header";
 import FeaturesPage from "../Components/Views/FeaturesPage";
 import LandingPage from "../Components/Views/LandingPage";
 import NotFoundPage from "../Components/Views/NotfoundPage";
+import { ROUTES } from "../Configs/Constants/const";
 import GlobalStyle from "../Theme/global";
 import { IPlaceThemeProvider, PlaceThemeContext } from "../Theme/themeContext";
 import ThemeReducer from "../Theme/themeReducer";
@@ -32,19 +33,19 @@ function App() {
       {themeLoaded && (
         <ThemeProvider theme={currentTheme.updatedTheme}>
           <GlobalStyle />
-          <div className="App">
-            <Header />
-            <section className="content-section">
-              <BrowserRouter>
+          <BrowserRouter>
+            <div className="App">
+              <Header />
+              <section className="content-section">
                 <Routes>
-                  <Route path="/" element={<LandingPage />} />
-                  <Route path="features" element={<FeaturesPage />} />
-                  <Route path="*" element={<NotFoundPage />} />
+                  <Route path={ROUTES.HOME} element={<LandingPage />} />
+                  <Route path={ROUTES.FEATURES} element={<FeaturesPage />} />
+                  <Route path={ROUTES.NOT_FOUND} element={<NotFoundPage />} />
                 </Routes>
-              </BrowserRouter>
-            </section>
-            <Footer />
-          </div>
+              </section>
+              <Footer />
+            </div>
+          </BrowserRouter>
         </ThemeProvider>
       )}
     </PlaceThemeContext.Provider>

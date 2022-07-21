@@ -9,7 +9,7 @@ import light from "../../Theme/themes/light";
 export const THEME_ARRAY: IThemeConfig[] = [
   {
     themeName: "girly",
-    themeColor: "#59ab64",
+    themeColor: "#f1b7ea",
     themeIcon: colorMode,
     themeValue: girly
   },
@@ -41,3 +41,13 @@ export enum LANGUAGE_NAMES_KEY {
   GERMAN = "de"
 }
 export const DEFAULT_LANGUAGE = LANGUAGE_NAMES_KEY.ENGLISH;
+
+export enum ROUTES {
+  HOME = "/",
+  FEATURES = "/features",
+  NOT_FOUND = "*"
+}
+export enum ROUTES_NAME_KEY {
+  HOME = "",
+  FEATURES = "featuresRoute"
+}

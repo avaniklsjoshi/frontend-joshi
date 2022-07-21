@@ -1,7 +1,15 @@
 export default {
   themeType: "girly",
   colors: {
-    background: "#59ab64",
+    background: "#f1b7ea",
+    text: "#fff"
+  },
+  header: {
+    background: "#000",
+    text: "#fff"
+  },
+  footer: {
+    background: "#262726",
     text: "#fff"
   },
   section: {

@@ -79,9 +79,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <h2>:bomb:  Hold tight, features are going to be added soon..  :crossed_fingers:</h2>
 
-- change page title, web title logo, share link
+- change page title, web title logo
 - api fail UI, centralized loader
-- scroll loader at top, click scroll to section
+- scroll loader at top
 - tell me a joke section, Meme Generator\*
 - Real-Time Chat, Music Player\*
 - Personal Blog\*
@@ -118,6 +118,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - react-redux, saga, axious
 - fonts, imgs, svg
 - Theming with local storage complete
+- sticky header, routes enabled, theme button styled, share link(copy to clipboard)
 
 ---
 
