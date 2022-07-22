@@ -36,13 +36,13 @@ function App() {
           <BrowserRouter>
             <div className="App">
               <Header />
-              <section className="content-section">
+              <div className="content-section">
                 <Routes>
                   <Route path={ROUTES.HOME} element={<LandingPage />} />
                   <Route path={ROUTES.FEATURES} element={<FeaturesPage />} />
                   <Route path={ROUTES.NOT_FOUND} element={<NotFoundPage />} />
                 </Routes>
-              </section>
+              </div>
               <Footer />
             </div>
           </BrowserRouter>

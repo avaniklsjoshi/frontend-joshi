@@ -19,11 +19,9 @@ mouse string connection https://codepen.io/akey96/pen/oNgeQYX
 light house https://codepen.io/alvarotrigo/pen/VwzEPZM
 bubble float https://codepen.io/alphardex/pen/jOWMGON
 
-aadi maanav 404 https://codepen.io/abol/pen/arPeZz
 glitched out error page https://codepen.io/ZonFire99/pen/EaYmGV
 
 download resume button https://codepen.io/pineappleSyrup/pen/gNdERJ
-hover glow https://codepen.io/ryancolgin/pen/DMewJJ
 
 
 page title https://codepen.io/giana/embed/qmKNeE?default-tab=result&theme-id=0

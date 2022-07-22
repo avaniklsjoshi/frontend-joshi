@@ -31,9 +31,9 @@ export const DEFAULT_THEME = dark;
 export const LOCAL_STORAGE_THEME_KEY = "joshi-themes";
 
 export enum LANGUAGE_NAMES {
-  HINDI = "Hindi",
+  HINDI = "हिन्दी",
   ENGLISH = "English",
-  GERMAN = "German"
+  GERMAN = "Deutsch"
 }
 export enum LANGUAGE_NAMES_KEY {
   HINDI = "hn",
@@ -50,4 +50,16 @@ export enum ROUTES {
 export enum ROUTES_NAME_KEY {
   HOME = "",
   FEATURES = "featuresRoute"
+}
+export enum DOC_TITLE_NAME {
+  HOME = "Avani Joshi | Frontend Developer",
+  FEATURES = "Avani Joshi | Frontend Developer | Features",
+  NOT_FOUND = "Avani Joshi | Frontend Developer | Not Found"
+}
+
+export enum SOCIAL_LINKS {
+  GITHUB = "https://github.com/avaniklsjoshi",
+  GITLAB = "https://gitlab.com/avaniklsjoshi",
+  LINKEDIN = "https://www.linkedin.com/in/avani-joshi-6365b887/",
+  TWITTER = "https://twitter.com/avaniklsjoshi/"
 }

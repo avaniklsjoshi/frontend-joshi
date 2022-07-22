@@ -5,6 +5,7 @@ import * as SC from "./partials";
 import ThemePicker from "./themePicker";
 import "./header.scss";
 import { ROUTES, ROUTES_NAME_KEY } from "../../Configs/Constants/const";
+
 export default function Header() {
   const { t } = useTranslation();
   const navigate = useNavigate();

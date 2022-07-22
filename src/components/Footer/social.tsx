@@ -5,7 +5,7 @@ import { Gitlab } from "../../Assets/SVG/Gitlab";
 import { LinkedIn } from "../../Assets/SVG/LinkedIn";
 import { Share } from "../../Assets/SVG/Share";
 import { Twitter } from "../../Assets/SVG/Twitter";
-
+import { SOCIAL_LINKS } from "../../Configs/Constants/const";
 import "./footer.scss";
 
 export default function Social() {
@@ -21,7 +21,7 @@ export default function Social() {
   return (
     <>
       <a
-        href="https://twitter.com/avaniklsjoshi/"
+        href={SOCIAL_LINKS.TWITTER}
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Twitter Avani"
@@ -30,7 +30,7 @@ export default function Social() {
         <Twitter />
       </a>
       <a
-        href="https://www.linkedin.com/in/avani-joshi-6365b887/"
+        href={SOCIAL_LINKS.LINKEDIN}
         target="_blank"
         rel="noopener noreferrer"
         aria-label="LinkedIn Avani"
@@ -39,7 +39,7 @@ export default function Social() {
         <LinkedIn />
       </a>
       <a
-        href="https://github.com/avaniklsjoshi"
+        href={SOCIAL_LINKS.GITHUB}
         target="_blank"
         rel="noopener noreferrer"
         aria-label="github Avani"
@@ -48,7 +48,7 @@ export default function Social() {
         <Github />
       </a>
       <a
-        href="https://gitlab.com/avaniklsjoshi"
+        href={SOCIAL_LINKS.GITLAB}
         target="_blank"
         rel="noopener noreferrer"
         aria-label="gitlab Avani"
@@ -64,7 +64,7 @@ export default function Social() {
         disableFocusListener
         disableHoverListener
         disableTouchListener
-        title="Link Copied!"
+        title="🎉 Link Copied!"
       >
         <button onClick={handleShare} className="share-button">
           <Share />
