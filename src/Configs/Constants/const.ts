@@ -63,3 +63,22 @@ export enum SOCIAL_LINKS {
   LINKEDIN = "https://www.linkedin.com/in/avani-joshi-6365b887/",
   TWITTER = "https://twitter.com/avaniklsjoshi/"
 }
+
+export const PORTFOLIO_URLS = [
+  {
+    path: "../../Assets/Portfolio/Avani Joshi Cover letter.pdf",
+    name: "Avani Joshi Cover letter.pdf"
+  },
+  {
+    path: "../../Assets/Portfolio/Resume1.pdf",
+    name: "Avani Joshi Resume.pdf"
+  },
+  {
+    path: "../../Assets/Portfolio/Avani Joshi Frontend Developer.pdf",
+    name: "Avani Joshi Frontend Developer.pdf"
+  },
+  {
+    path: "../../Assets/Portfolio/Avani Joshi Projects Worked on.pdf",
+    name: "Avani Joshi Projects Worked on.pdf"
+  }
+];

@@ -19,7 +19,7 @@ export default function Social() {
     }, 3000);
   };
   return (
-    <>
+    <div>
       <a
         href={SOCIAL_LINKS.TWITTER}
         target="_blank"
@@ -70,6 +70,6 @@ export default function Social() {
           <Share />
         </button>
       </Tooltip>
-    </>
+    </div>
   );
 }

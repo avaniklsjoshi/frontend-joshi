@@ -120,6 +120,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - sticky header, routes enabled, theme button styled, share link(copy to clipboard)
 - change page title
 - web title logo, glowing title, not found design
+- download resume button
 
 ---
 

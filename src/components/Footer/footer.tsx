@@ -1,4 +1,5 @@
 import { useTranslation } from "react-i18next";
+import DownloadPortfolio from "./downloadPortfolio";
 import * as SC from "./partials";
 import Social from "./social";
 import loveIcon from "../../Assets/Images/love.png";
@@ -10,6 +11,7 @@ export default function Footer() {
   return (
     <SC.FooterContainer>
       <div className="footer-container">
+        <DownloadPortfolio />
         <Social />
         <p className="copyright">
           {t("copyrightText1")}

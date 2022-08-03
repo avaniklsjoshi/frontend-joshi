@@ -5,7 +5,7 @@ export default {
     text: "#fff"
   },
   header: {
-    background: "#262726",
+    background: "rgba(36,36,36,.7)",
     text: "#fff"
   },
   footer: {
