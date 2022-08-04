@@ -82,3 +82,60 @@ export const PORTFOLIO_URLS = [
     name: "Avani Joshi Projects Worked on.pdf"
   }
 ];
+
+export const CARDS_LIST = [
+  {
+    path: "LINK TO MICROFRONTEND",
+    title: "Things to notice in App",
+    description: "Things to notice in app in various parts",
+    thumbnail: "https://media.giphy.com/media/6RrGJniqA0zD07caO1/giphy.gif",
+    information: "This will be a microfrontend for Things to notice in app."
+  },
+  {
+    path: "LINK TO MICROFRONTEND",
+    title: "Angular Air Quality App",
+    description: "Mean App to see Air Quality",
+    thumbnail: "https://media.giphy.com/media/6RrGJniqA0zD07caO1/giphy.gif",
+    information:
+      "This will be a microfrontend for Air Quality App. Which is a FullStack App."
+  }
+  // {
+  //   path: "LINK TO MICROFRONTEND",
+  //   title: "UI Designs",
+  //   description: "examples for cool css tricks",
+  //   thumbnail: "https://media.giphy.com/media/6RrGJniqA0zD07caO1/giphy.gif",
+  //   information:
+  //     "this will be a microfrontend for all the UI related cool stuff."
+  // },
+  // {
+  //   path: "LINK TO MICROFRONTEND",
+  //   title: "JS Techniques",
+  //   description: "examples for cool JS tricks",
+  //   thumbnail: "https://media.giphy.com/media/6RrGJniqA0zD07caO1/giphy.gif",
+  //   information:
+  //     "this will be a microfrontend for all the Js related cool stuff."
+  // },
+  // {
+  //   path: "LINK TO MICROFRONTEND",
+  //   title: "React Learnings",
+  //   description: "examples for cool React tricks",
+  //   thumbnail: "https://media.giphy.com/media/6RrGJniqA0zD07caO1/giphy.gif",
+  //   information:
+  //     "this will be a microfrontend for all the React related cool stuff."
+  // },
+  // {
+  //   path: "LINK TO MICROFRONTEND",
+  //   title: "ROUTING Patterns",
+  //   description: "examples for necessary routing techniques",
+  //   thumbnail: "https://media.giphy.com/media/6RrGJniqA0zD07caO1/giphy.gif",
+  //   information:
+  //     "this will be a microfrontend for all the routing related cool stuff."
+  // },
+  // {
+  //   path: "LINK TO MICROFRONTEND",
+  //   title: "Random Stuff",
+  //   description: "examples which are hard to find suitable tab",
+  //   thumbnail: "https://media.giphy.com/media/6RrGJniqA0zD07caO1/giphy.gif",
+  //   information: "this will be a microfrontend for all the ramdom  cool stuff."
+  // }
+];

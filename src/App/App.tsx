@@ -1,4 +1,4 @@
-import "./App.scss";
+import "./app.scss";
 import { useEffect, useReducer } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { ThemeProvider } from "styled-components";

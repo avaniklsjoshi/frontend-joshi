@@ -121,6 +121,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - change page title
 - web title logo, glowing title, not found design
 - download resume button
+- cards for microfrontend initial stage
 
 ---
 
