@@ -99,7 +99,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - respective backend- AWS, Dyanamo DB, lambda, s3, express local
 - npm package
 - monorepo
-- WebAssembly, Svelte
+- WebAssembly
 
 <h2>Already implemented features :tada: </h2>
 

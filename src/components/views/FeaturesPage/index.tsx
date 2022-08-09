@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import "./feature.scss";
 import Cards from "./cards";
+import CrudeBackend from "./CRUDExample/crudeBackend";
 
 export default function FeaturesPage() {
   const { t } = useTranslation();
@@ -14,6 +15,7 @@ export default function FeaturesPage() {
     <div className="feature-container">
       <div className="feature-title">{t("featuresRoute")}</div>
       <Cards />
+      <CrudeBackend />
     </div>
   );
 }

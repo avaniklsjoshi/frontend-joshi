@@ -2,14 +2,15 @@
 
 - Testing - https://create-react-app.dev/docs/running-tests
 - Readme - https://www.sitepoint.com/github-profile-readme
-- project Ideas - https://hackr.io/blog/react-projects
-
+- Project Ideas - https://hackr.io/blog/react-projects
+- Mongo DB - https://university.mongodb.com/courses/M001/about?_ga=2.40517602.1775693247.1659644376-1193986308.1659644371
+- Mongo DB - https://university.mongodb.com/courses/M220JS/about
 
 
 eye pointer https://www.seanhalpin.design/
 chat bot
 
-css animation
+css animations-
 star in a line https://codepen.io/osorina/pen/PQdMOO
 night star sky https://codepen.io/sarazond/pen/LYGbwj
 square moving up https://codepen.io/Lewitje/pen/BNNJjo
