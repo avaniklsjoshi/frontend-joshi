@@ -125,6 +125,11 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
+`docker build . -t avani/cra-docker-test`
+`docker run -p 8080:80 avani/cra-docker-test`
+`http://localhost:8080/`
+`docker ps`
+
 <div align="center">
   Feel free to ask any questions, open a PR if you feel something can be done differently!
   <h4 align="center">🌟Star this repository🌟</h4>

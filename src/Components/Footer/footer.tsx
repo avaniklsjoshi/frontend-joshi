@@ -12,6 +12,7 @@ export default function Footer() {
     <SC.FooterContainer>
       <div className="footer-container">
         {/* <DownloadPortfolio ji/> */}
+        gdfgvhurkghkjsdhgksh
         <Social />
         <p className="copyright">
           {t("copyrightText1")}
