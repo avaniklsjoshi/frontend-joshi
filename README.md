@@ -161,3 +161,4 @@ docker run -d -p 80:80 regestry.heroku.com/avanijoshi/web
 heroku stack:set container
 heroku stack:set 7594b94c24d0919a16a1f940671b08e5c846823f706fa09edf45a0ef1831c7fd
 git push heroku HEAD:master
+heroku run printenv ,, copy port in dockerfile
