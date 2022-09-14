@@ -128,9 +128,33 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 `docker build . -t avani/cra-docker-test`
 `docker run -p 8080:80 avani/cra-docker-test`
 `http://localhost:8080/`
-`docker ps`
+`docker ps or docker ps -a ` //list all of the containers
+`heroku container:login`
+`heroku create`
+`heroku container:push web`
+`heroku container:release web`
+`heroku open`
+service docker stop // stop the Docker daemon process.
+service docker start
+docker images
+docker run image
+docker stats ContainerID // docker statistics
+docker stop ContainerID
+docker kill ContainerID //kill the processes in a running container
+docker pause ContainerID
+docker unpause ContainerID
+docker history ImageID //all the commands that were run with an image via a container
+remove docker image - docker rmi ImageID
+docker rm ContainerID
+details of container or image- docker inspect image_or_container like docker inspect jenkins
+id of the image- docker inspect avani/cra-docker-test --format={{.Id}}
+
+docker exec sha256:192ea92a71a5e6c068551819745203014b520e2966f8802340cdac32ae4c13ce bash
+whoami
 
 <div align="center">
   Feel free to ask any questions, open a PR if you feel something can be done differently!
   <h4 align="center">🌟Star this repository🌟</h4>
 </div>
+
+docker run -d -p 80:80 regestry.heroku.com/avanijoshi/web
